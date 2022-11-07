@@ -33,15 +33,15 @@ Download
 -----
 
 Dataset download links:
-- Folder 1 (108 image pairs): https://mega.nz/file/zwMlgSRZ#ywe5SwCAaode_7E1zHlUhf2IawItXRS4qr4nnC0KHXQ
-- Folder 2  (48 image pairs): https://mega.nz/file/moNRnYwQ#Qrv21hGKDgnJsqiUjCLwtL9aKPmZo3f5v3j64epRvRw
-- Folder 3 (243 image pairs): https://mega.nz/file/r49zDCxK#WSAGQhfpPYOZ027oggJ-ygU5p--BNexrKArui-FjKXk
+- [Folder 1](https://mega.nz/file/zwMlgSRZ#ywe5SwCAaode_7E1zHlUhf2IawItXRS4qr4nnC0KHXQ) - 108 image pairs
+- [Folder 2](https://mega.nz/file/moNRnYwQ#Qrv21hGKDgnJsqiUjCLwtL9aKPmZo3f5v3j64epRvRw) - 48 image pairs
+- [Folder 3](https://mega.nz/file/r49zDCxK#WSAGQhfpPYOZ027oggJ-ygU5p--BNexrKArui-FjKXk) - 243 image pairs
 
 Paper
 -----
 Paper will be presented at [IAS 2022](http://www.mirlabs.org/ias22/) during December 13-15, 2022.
 Now the paper is accepted and its camera-ready copy is submitted to Program Committee.
-Main contributor is Alexander Tarasov.
+Main contributor is [Alexander Tarasov](https://github.com/cat1s-smile)
 
 Bibtex:
 ```
